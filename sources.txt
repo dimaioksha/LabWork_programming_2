@@ -1,0 +1,6 @@
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\Laba2.java
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\pokemons\Landorus.java
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\skills\Focus.java
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\skills\Hammer.java
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\skills\Rock.java
+C:\Users\Dmitry\Desktop\ITMOJAVA\secondlab\src\skills\Sludge.java
